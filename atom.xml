@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>7utism的博客</title>
+  <title>林夕博客</title>
   
-  <subtitle>少年辛苦终身事，莫向光阴惰寸功</subtitle>
-  <link href="https://7utism.github.io/atom.xml" rel="self"/>
+  <subtitle>莫愁前路无知己</subtitle>
+  <link href="https://linxi-520.github.io/atom.xml" rel="self"/>
   
-  <link href="https://7utism.github.io/"/>
+  <link href="https://linxi-520.github.io/"/>
   <updated>2021-10-28T11:37:25.532Z</updated>
-  <id>https://7utism.github.io/</id>
+  <id>https://linxi-520.github.io/</id>
   
   <author>
-    <name>7utism</name>
+    <name>林夕</name>
     
   </author>
   
@@ -34,13 +34,13 @@
     
     
     
-    <category term="writeup" scheme="https://7utism.github.io/tags/writeup/"/>
+    <category term="writeup" scheme="https://linxi-520.github.io/tags/writeup/"/>
     
   </entry>
   
   <entry>
     <title>About</title>
-    <link href="https://7utism.github.io/2021/10/28/hello-world/"/>
+    <link href="https://linxi-520.github.io/2021/10/28/hello-world/"/>
     <id>https://7utism.github.io/2021/10/28/hello-world/</id>
     <published>2021-10-28T11:55:38.000Z</published>
     <updated>2021-10-28T12:10:56.114Z</updated>
